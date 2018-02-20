@@ -4,14 +4,14 @@ on utilise ```mathjs``` : https://www.npmjs.com/package/mathjs
 
 tout est dans ```index.js```
 
-DL ou clone le repos
+DL ou clone le repos puis
 
 ```
-npm install
+$ npm install
 ```
 pour tester :
 
 ```
-npm run dev
+$ npm run dev
 ```
 
